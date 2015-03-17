@@ -24,25 +24,13 @@ Installation
 #### [npm](https://npmjs.org/package/speakingurl)
 
 ```shell
-npm install speakingurl --save
+npm install speakingurl-add-korean --save
 ```
 
 #### [Bower](http://bower.io)
 
 ```shell
-bower install --save speakingurl
-```
-
-#### [Component](https://github.com/component/component)
-
-```shell
-component install pid/speakingurl
-```
-
-#### [jamjs](http://jamjs.org/)
-
-```shell
-jam install speakingurl
+bower install --save speakingurl-add-korean
 ```
 
 #### [Download Package](https://github.com/pid/speakingurl/releases)
